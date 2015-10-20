@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Auto-Evaluación</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="Examinate">¡Examínate!</string>
+    <string name="Puntuacion">Puntuación</string>
+    <string name="Mi_perfil">Mi perfil</string>
+    <string name="Ajustes">Ajustes</string>
+    <string name="Introduccion_al_uso_de_android">Introducción a Android</string>
+    <string name="Uso_de_APIs_Android">Uso de APIs en Android</string>
+    <string name="Ciclo_de_vida_Activity">Ciclo de vida Activity</string>
+    <string name="Procesar_inputs">Procesar inputs</string>
+    <string name="Procesar_eventos_de_teclado">Procesar eventos de teclado</string>
+    <string name="Sistemas_de_manejo_de_archivos">Sistemas de manejo de archivos</string>
+    <string name="ViewGroups_y_Views_basicas">ViewGroups y Views Básicas</string>
+    <string name="Todo">¡Todo!</string>
+    <string name="Tu_nota_actual_es_de">Tu puntuación actual es de</string>
+    <string name="Puntuacion_por_defecto">00 pts</string>
+    <string name="Consejo_por_defecto">¡Empieza a hacer exámenes para aprobar la asignatura!</string>
+    <string name="Nombre_usuario">Nombre de usuario</string>
+    <string name="Hint_name">Juan</string>
+    <string name="Hint_email">my_mail@example.com</string>
+    <string name="Nombre_usuario_por_defecto">Alumno de la URJC</string>
+    <string name="Email">Email</string>
+    <string name="Activar_sonido">Activar sonido</string>
+    <string name="Activar_tiempo">Activar tiempo</string>
+    <string name="Sugerencias">Envíanos sugerencias a md.silva@me.com</string>
+    <string name="Salir">Salir</string>
+    <string name="title_activity_temas">Temas</string>
+    <string name="title_activity_puntuacion">Puntuación</string>
+    <string name="title_activity_usuario">Mi perfil</string>
+    <string name="title_activity_ajustes">Ajustes</string>
+    <string name="title_activity_pregunta">Pregunta</string>
+    <string name="title_activity_ranking">Ranking</string>
+    <string name="title_activity_registro">Registro</string>
+    <string name="title_activity_login">Login</string>
+
+</resources>
